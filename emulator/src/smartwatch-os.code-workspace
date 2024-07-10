@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"name": "open-aqm-firmware",
+		"path": "../../../open-aqm-firmware"
+	},
+	{
+		"path": "../../../intelligent-knob"
+	}
+],
+  "settings": {}
+}
